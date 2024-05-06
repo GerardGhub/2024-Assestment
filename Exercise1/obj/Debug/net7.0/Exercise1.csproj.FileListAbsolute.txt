@@ -1,0 +1,15 @@
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\bin\Debug\net7.0\Exercise1.exe
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\bin\Debug\net7.0\Exercise1.deps.json
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\bin\Debug\net7.0\Exercise1.runtimeconfig.json
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\bin\Debug\net7.0\Exercise1.dll
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\bin\Debug\net7.0\Exercise1.pdb
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\Exercise1.csproj.AssemblyReference.cache
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\Exercise1.AssemblyInfoInputs.cache
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\Exercise1.AssemblyInfo.cs
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\Exercise1.dll
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\refint\Exercise1.dll
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\Exercise1.pdb
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\Exercise1.genruntimeconfig.cache
+C:\FilesGerard\2024 Skubbs Exams\Exercise1\obj\Debug\net7.0\ref\Exercise1.dll
